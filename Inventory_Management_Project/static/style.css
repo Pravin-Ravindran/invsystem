@@ -1,0 +1,12 @@
+        body{
+            background-image:url('https://zonalogistica.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/08/03125009/Dark-Store-Resiliente-digital.jpg');
+            background-size: cover;
+        }
+        .card{
+            background-image:url('https://media.wired.com/photos/5c9040ee4950d24718d6da99/master/w_1920,c_limit/shoppingcart-1066110386.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            width: 60%;
+            
+        }

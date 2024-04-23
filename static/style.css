@@ -1,0 +1,33 @@
+body{
+    background-image:url('https://x23186607inventory.s3.amazonaws.com/Dark-Store-Resiliente-digital.jpg');
+    background-size: cover;
+}
+activelink{
+    float:right;
+    text-decoration: none !important;
+    margin-right:330px;
+}
+
+.card{
+    width: 18rem;
+    margin-top:30px;
+    float: right;
+    margin-right: 200px;
+}
+
+table{
+  border:1px solid white;
+  color: #ffffff;
+}
+h2{
+    background-color:white;
+}
+
+th{
+    background-color:white;
+    color: black
+}
+tr{
+    background-color:black;
+}
+tr:hover {background-color: coral;}
